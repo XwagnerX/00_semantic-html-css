@@ -6,7 +6,8 @@ body {
   height: 100vh;
   margin: 0;
 
-  background-color: #f0f4f8;
+
+  background-color:  #f0f4f8;
   color: #333;
   font-family: Arial, sans-serif;
 }
@@ -16,7 +17,8 @@ body {
   width: 100%;
   padding: 1rem;
 
-  background-color:  #4a90e2;
+
+  background-color: #4a90e2;
   color: white;
   text-align: center;
 }
